@@ -33,7 +33,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.chengtai.QianHuaHua</string>
+                    <string>com.chentai.ruyiCash</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
@@ -41,7 +41,7 @@
                     <key>subtitle</key>
                     <string>App</string>
                     <key>title</key>
-                    <string>响指钱包</string>
+                    <string>如益钱包</string>
                 </dict>
             </dict>
         </array>
